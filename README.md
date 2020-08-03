@@ -1,2 +1,1 @@
-# Tindog-new
-Descript
+TinDog Starting Files
